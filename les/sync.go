@@ -21,7 +21,7 @@ import (
 	"time"
 
 	"github.com/CouponOne/Coupon.One/core"
-	"github.com/CouponOne/Coupon.One/eth/downloader"
+	"github.com/CouponOne/Coupon.One/cpu/downloader"
 	"github.com/CouponOne/Coupon.One/light"
 )
 

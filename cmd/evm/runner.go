@@ -34,7 +34,7 @@ import (
 	"github.com/CouponOne/Coupon.One/core/state"
 	"github.com/CouponOne/Coupon.One/core/vm"
 	"github.com/CouponOne/Coupon.One/core/vm/runtime"
-	"github.com/CouponOne/Coupon.One/ethdb"
+	"github.com/CouponOne/Coupon.One/cpudb"
 	"github.com/CouponOne/Coupon.One/log"
 	"github.com/CouponOne/Coupon.One/params"
 	cli "gopkg.in/urfave/cli.v1"

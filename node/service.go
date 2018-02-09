@@ -20,7 +20,7 @@ import (
 	"reflect"
 
 	"github.com/CouponOne/Coupon.One/accounts"
-	"github.com/CouponOne/Coupon.One/ethdb"
+	"github.com/CouponOne/Coupon.One/cpudb"
 	"github.com/CouponOne/Coupon.One/event"
 	"github.com/CouponOne/Coupon.One/p2p"
 	"github.com/CouponOne/Coupon.One/rpc"

@@ -29,7 +29,7 @@ import (
 	"github.com/CouponOne/Coupon.One/common"
 	"github.com/CouponOne/Coupon.One/consensus/ethash"
 	"github.com/CouponOne/Coupon.One/core"
-	"github.com/CouponOne/Coupon.One/eth"
+	"github.com/CouponOne/Coupon.One/cpu"
 	"github.com/CouponOne/Coupon.One/internal/jsre"
 	"github.com/CouponOne/Coupon.One/node"
 )

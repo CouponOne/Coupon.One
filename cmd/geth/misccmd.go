@@ -25,7 +25,7 @@ import (
 
 	"github.com/CouponOne/Coupon.One/cmd/utils"
 	"github.com/CouponOne/Coupon.One/consensus/ethash"
-	"github.com/CouponOne/Coupon.One/eth"
+	"github.com/CouponOne/Coupon.One/cpu"
 	"github.com/CouponOne/Coupon.One/params"
 	"gopkg.in/urfave/cli.v1"
 )

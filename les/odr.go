@@ -20,7 +20,7 @@ import (
 	"context"
 
 	"github.com/CouponOne/Coupon.One/core"
-	"github.com/CouponOne/Coupon.One/ethdb"
+	"github.com/CouponOne/Coupon.One/cpudb"
 	"github.com/CouponOne/Coupon.One/light"
 	"github.com/CouponOne/Coupon.One/log"
 )

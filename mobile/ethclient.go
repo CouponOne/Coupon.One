@@ -22,7 +22,7 @@ import (
 	"math/big"
 
 	"github.com/CouponOne/Coupon.One/core/types"
-	"github.com/CouponOne/Coupon.One/ethclient"
+	"github.com/CouponOne/Coupon.One/cpuclient"
 )
 
 // EthereumClient provides access to the Ethereum APIs.

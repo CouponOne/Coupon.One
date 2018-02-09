@@ -32,7 +32,7 @@ import (
 
 	"github.com/CouponOne/Coupon.One/common"
 	"github.com/CouponOne/Coupon.One/core/types"
-	"github.com/CouponOne/Coupon.One/ethdb"
+	"github.com/CouponOne/Coupon.One/cpudb"
 )
 
 // Tests that updating a state trie does not leak any database writes prior to

@@ -27,7 +27,7 @@ import (
 	"sync"
 
 	"github.com/CouponOne/Coupon.One/accounts"
-	"github.com/CouponOne/Coupon.One/ethdb"
+	"github.com/CouponOne/Coupon.One/cpudb"
 	"github.com/CouponOne/Coupon.One/event"
 	"github.com/CouponOne/Coupon.One/internal/debug"
 	"github.com/CouponOne/Coupon.One/log"

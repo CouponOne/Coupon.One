@@ -28,7 +28,7 @@ import (
 	"time"
 
 	"github.com/CouponOne/Coupon.One/common/mclock"
-	"github.com/CouponOne/Coupon.One/ethdb"
+	"github.com/CouponOne/Coupon.One/cpudb"
 	"github.com/CouponOne/Coupon.One/log"
 	"github.com/CouponOne/Coupon.One/p2p"
 	"github.com/CouponOne/Coupon.One/p2p/discover"

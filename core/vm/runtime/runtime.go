@@ -25,7 +25,7 @@ import (
 	"github.com/CouponOne/Coupon.One/core/state"
 	"github.com/CouponOne/Coupon.One/core/vm"
 	"github.com/CouponOne/Coupon.One/crypto"
-	"github.com/CouponOne/Coupon.One/ethdb"
+	"github.com/CouponOne/Coupon.One/cpudb"
 	"github.com/CouponOne/Coupon.One/params"
 )
 

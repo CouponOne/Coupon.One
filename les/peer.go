@@ -28,7 +28,7 @@ import (
 
 	"github.com/CouponOne/Coupon.One/common"
 	"github.com/CouponOne/Coupon.One/core/types"
-	"github.com/CouponOne/Coupon.One/eth"
+	"github.com/CouponOne/Coupon.One/cpu"
 	"github.com/CouponOne/Coupon.One/les/flowcontrol"
 	"github.com/CouponOne/Coupon.One/light"
 	"github.com/CouponOne/Coupon.One/p2p"

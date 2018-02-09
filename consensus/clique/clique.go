@@ -34,7 +34,7 @@ import (
 	"github.com/CouponOne/Coupon.One/core/types"
 	"github.com/CouponOne/Coupon.One/crypto"
 	"github.com/CouponOne/Coupon.One/crypto/sha3"
-	"github.com/CouponOne/Coupon.One/ethdb"
+	"github.com/CouponOne/Coupon.One/cpudb"
 	"github.com/CouponOne/Coupon.One/log"
 	"github.com/CouponOne/Coupon.One/params"
 	"github.com/CouponOne/Coupon.One/rlp"

@@ -21,7 +21,7 @@ import (
 	"testing"
 
 	"github.com/CouponOne/Coupon.One/common"
-	"github.com/CouponOne/Coupon.One/ethdb"
+	"github.com/CouponOne/Coupon.One/cpudb"
 )
 
 // makeTestTrie create a sample test trie to test node-wise reconstruction.

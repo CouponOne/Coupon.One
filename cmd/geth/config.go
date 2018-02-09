@@ -29,7 +29,7 @@ import (
 
 	"github.com/CouponOne/Coupon.One/cmd/utils"
 	"github.com/CouponOne/Coupon.One/dashboard"
-	"github.com/CouponOne/Coupon.One/eth"
+	"github.com/CouponOne/Coupon.One/cpu"
 	"github.com/CouponOne/Coupon.One/node"
 	"github.com/CouponOne/Coupon.One/params"
 	whisper "github.com/CouponOne/Coupon.One/whisper/whisperv5"

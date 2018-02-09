@@ -21,7 +21,7 @@ import (
 	"fmt"
 
 	"github.com/CouponOne/Coupon.One/core/types"
-	"github.com/CouponOne/Coupon.One/ethdb"
+	"github.com/CouponOne/Coupon.One/cpudb"
 	"github.com/CouponOne/Coupon.One/event"
 )
 

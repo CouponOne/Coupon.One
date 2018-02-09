@@ -21,7 +21,7 @@ import (
 	"sync"
 
 	"github.com/CouponOne/Coupon.One/common"
-	"github.com/CouponOne/Coupon.One/ethdb"
+	"github.com/CouponOne/Coupon.One/cpudb"
 	"github.com/CouponOne/Coupon.One/trie"
 	lru "github.com/hashicorp/golang-lru"
 )

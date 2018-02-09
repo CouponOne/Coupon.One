@@ -23,7 +23,7 @@ import (
 
 	"github.com/CouponOne/Coupon.One/common"
 	"github.com/CouponOne/Coupon.One/crypto"
-	"github.com/CouponOne/Coupon.One/ethdb"
+	"github.com/CouponOne/Coupon.One/cpudb"
 	checker "gopkg.in/check.v1"
 )
 

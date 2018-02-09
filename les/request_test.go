@@ -24,8 +24,8 @@ import (
 	"github.com/CouponOne/Coupon.One/common"
 	"github.com/CouponOne/Coupon.One/core"
 	"github.com/CouponOne/Coupon.One/crypto"
-	"github.com/CouponOne/Coupon.One/eth"
-	"github.com/CouponOne/Coupon.One/ethdb"
+	"github.com/CouponOne/Coupon.One/cpu"
+	"github.com/CouponOne/Coupon.One/cpudb"
 	"github.com/CouponOne/Coupon.One/light"
 )
 

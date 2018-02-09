@@ -20,7 +20,7 @@ import (
 	"testing"
 
 	"github.com/CouponOne/Coupon.One/common"
-	"github.com/CouponOne/Coupon.One/ethdb"
+	"github.com/CouponOne/Coupon.One/cpudb"
 )
 
 var addr = common.BytesToAddress([]byte("test"))

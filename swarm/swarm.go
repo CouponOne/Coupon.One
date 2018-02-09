@@ -28,7 +28,7 @@ import (
 	"github.com/CouponOne/Coupon.One/contracts/chequebook"
 	"github.com/CouponOne/Coupon.One/contracts/ens"
 	"github.com/CouponOne/Coupon.One/crypto"
-	"github.com/CouponOne/Coupon.One/ethclient"
+	"github.com/CouponOne/Coupon.One/cpuclient"
 	"github.com/CouponOne/Coupon.One/log"
 	"github.com/CouponOne/Coupon.One/node"
 	"github.com/CouponOne/Coupon.One/p2p"

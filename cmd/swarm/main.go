@@ -38,7 +38,7 @@ import (
 	"github.com/CouponOne/Coupon.One/console"
 	"github.com/CouponOne/Coupon.One/contracts/ens"
 	"github.com/CouponOne/Coupon.One/crypto"
-	"github.com/CouponOne/Coupon.One/ethclient"
+	"github.com/CouponOne/Coupon.One/cpuclient"
 	"github.com/CouponOne/Coupon.One/internal/debug"
 	"github.com/CouponOne/Coupon.One/log"
 	"github.com/CouponOne/Coupon.One/node"
