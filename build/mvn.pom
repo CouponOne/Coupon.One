@@ -4,13 +4,13 @@
                       http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>org.ethereum</groupId>
+  <groupId>org.conponone</groupId>
   <artifactId>geth</artifactId>
   <version>{{.Version}}</version>
   <packaging>aar</packaging>
 
   <name>Android Ethereum Client</name>
-  <description>Android port of the go-ethereum libraries and node</description>
+  <description>Android port of the go-conponone libraries and node</description>
   <url>https://github.com/CouponOne/Coupon.One</url>
   <inceptionYear>2015</inceptionYear>
 
@@ -24,7 +24,7 @@
 
   <organization>
     <name>Ethereum</name>
-    <url>https://ethereum.org</url>
+    <url>https://conponone.org</url>
   </organization>
 
   <developers>
